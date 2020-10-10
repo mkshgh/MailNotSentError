@@ -29,3 +29,4 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework\vX.0.30319
  Normally .NET2 and .NET4 are sufficient in Windows server 2012 and 2012R2
  
 `Enter the .net Version to Enable TLS 1.2 on (Leave Empty if for all .NET versions): 24`
+![alt text](https://raw.githubusercontent.com/mkshgh/OfficalScriplets/main/pictures/_net_mail_notWorking.png)
